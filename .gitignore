@@ -2,3 +2,7 @@
 *.jpg
 *.txt
 best_resnext101_val_loss=-0.3169.pt
+best_resnet18_val_loss=-0.3890.pt
+best_resnet18v2_val_loss=-1.1630.pt
+best_resnet18v2_val_loss=-1.1745.pt
+*.pt
