@@ -3,4 +3,4 @@
  
  Integrantes:
  - Reinaldo Bustamante
- - María Belén Barrientos
+ - Benjamin Barrientos
